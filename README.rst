@@ -1,7 +1,7 @@
 ``plaquette-ibm-backend-``: connecting ``plaquette`` to IBM Quantum
 ===================================================================
 
-``plaquette-ibm-backend`` is an easy to install plugin that allows using IBM Quantum
+``plaquette-ibm-backend`` is an easy-to-install plugin that allows using IBM Quantum
 remote systems and simulators with `plaquette <https://docs.plaquette.design/>`_.
 
 Installation
@@ -31,7 +31,7 @@ example via
 
 For further ways of authentication refer to the IBM Quantum and Qiskit documentation.
 
-Once the account has been saved, a quantum ciruict generated from a code in
+Once the account has been saved, a quantum circuit generated from a code in
 plaquette can be run easily on a remote simulator provided by IBM by specifying
 the ``"ibm"`` backend and the name of an IBM system:
 
